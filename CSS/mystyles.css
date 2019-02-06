@@ -119,6 +119,19 @@ padding-top: 2%;
     width: 100%;
 }
 
+#seccionservicios{
+    margin-top: 3%;
+}
+
+#ingenieriaindustrial{
+    opacity: 0.8;
+    display: block;
+    margin: auto;
+    float: left;
+    height: 300px;
+    width: 450px;
+}
+
 #imagencontacto{
     opacity: 0.8;
     display: block;
